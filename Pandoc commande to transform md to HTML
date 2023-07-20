@@ -1,0 +1,2 @@
+pandoc -f markdown -t HTML -o FreeCAD_video.HTML -s FreeCAD_Video.md --metadata title="FreeCAD tutorials"
+
