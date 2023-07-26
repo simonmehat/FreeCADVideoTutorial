@@ -245,10 +245,51 @@ When you can't select an object in techdraw view, because its scale is to height
 </video>
 <br/>
 
+### Basic dimension tools
+
+<video width="640" height="480" controls>
+  <source src="Techdraw/Basic dimension tools.webm" type="video/webm">
+</video>
+<br/>
+
+### Techdraw annotation
+
+<video width="640" height="480" controls>
+  <source src="Techdraw/Texte annotation.webm" type="video/webm">
+</video>
+<br/>
+
+### Cosmetic lines (annotation lines)
+
+
+<video width="640" height="480" controls>
+  <source src="Techdraw/Cosmetic element.webm" type="video/webm">
+</video>
+<br/>
+
+### Useful tools
+
+<video width="640" height="480" controls>
+  <source src="Techdraw/Additional techdraw tools.webm" type="video/webm">
+</video>
+<br/>
 
 ************************************************************************************************
 # Macro
 
+### Add an external macro
+
+<video width="640" height="480" controls>
+  <source src="Macro/Add external macro.webm" type="video/webm">
+</video>
+<br/>
+
+### Record, run, edit a macro
+
+<video width="640" height="480" controls>
+  <source src="Macro/Record-edit-run a macro.webm" type="video/webm">
+</video>
+<br/>
 
 ************************************************************************************************
 # Internet ressources
