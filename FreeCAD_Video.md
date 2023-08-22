@@ -9,7 +9,13 @@
 
 ### Change default parameter
 
+An example about how to change the default parameter.
 
+
+<video width="640" height="480" controls>
+  <source src="Change default parameter.webm" type="video/webm">
+</video>
+<br/>
 
 
 ************************************************************************************************
@@ -42,7 +48,7 @@
 </video>
 <br/>
 
-### Move the workplan
+### Move the work plan
 
 <video width="640" height="480" controls>
   <source src="Workspace and useful tools/Move the workplan.webm" type="video/webm">
@@ -62,17 +68,6 @@
   <source src="Workspace and useful tools/Import a DXF drawing.webm" type="video/webm">
 </video>
 <br/>
-
-### Import IFC
-
-
-
-
-### Clean IFC file
-
-
-
-
 
 ### Fastener Workbench
 
@@ -104,7 +99,7 @@
 
 
 ************************************************************************************************
-# Arch element
+# Arch élément
 ## - Create -
 ### Create Grid
 
@@ -127,7 +122,7 @@
 </video>
 <br/>
 
-### Create a floor from part object (for complexe floor shape)
+### Create a floor from part object (for complex floor shape)
 
 <video width="640" height="480" controls>
   <source src="Arch element/Create a floor from part object (for complexe roof shape).webm" type="video/webm">
@@ -178,7 +173,7 @@
 
 # BIM
 
-### Create materials and multimaterials
+### Create materials and multi-materials
 
 <video width="640" height="480" controls>
   <source src="BIM/Create materials and multimaterials.webm" type="video/webm">
@@ -188,7 +183,7 @@
 ************************************************************************************************
 # Annotation and dimensions
 
-### Creat a Draft text and modify its style
+### Create a Draft text and modify its style
 
 <video width="640" height="480" controls>
   <source src="Annotation and dimension/Creat a Draft text and modify its style.webm" type="video/webm">
@@ -223,9 +218,6 @@ Presentation of the tools : Make wall, Extend face and Unfold
   <source src="SMD/Basic Tools of Sheet metal design workbench.webm" type="video/webm">
 </video>
 <br/>
-
-************************************************************************************************
-# Beam structure with Dodo workbench
 
 ************************************************************************************************
 # Sheet with Techdraw workbench
@@ -291,11 +283,21 @@ When you can't select an object in techdraw view, because its scale is to height
 </video>
 <br/>
 
+### Use Grid macro
+
+<video width="640" height="480" controls>
+  <source src="Macro/Grid macro tutorial.webm" type="video/webm">
+</video>
+<br/>
+
+
 ************************************************************************************************
 # Internet ressources
-A list of useful internet ressources :
+A list of useful internet resources :
 - [Tutorial to use FreeCAD Function in an external python editor](https://wiki.freecad.org/Embedding_FreeCAD)
-- [Youtube chanel on mechanical part design in FreeCAD](https://www.youtube.com/@mwganson/videos)
+- [Youtube channel on mechanical part design in FreeCAD](https://www.youtube.com/@mwganson/videos)
 - [Documentation to create a workbench on FreeCAD](https://wiki.opensourceecology.org/wiki/FreeCAD_Workbench_Python_Programming)
 </center>
+
+
 
